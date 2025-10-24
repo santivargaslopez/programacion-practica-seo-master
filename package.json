@@ -1,0 +1,31 @@
+{
+  "name": "programacion-practica-seo",
+  "version": "1.0.0",
+  "description": "Repositorio del curso de Programación práctica para SEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoSEO/programacion-practica-seo.git"
+  },
+  "keywords": [
+    "programacion",
+    "seo",
+    "curso"
+  ],
+  "author": "Nacho Mascort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoSEO/programacion-practica-seo/issues"
+  },
+  "homepage": "https://github.com/NachoSEO/programacion-practica-seo#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "jsdom": "^16.4.0",
+    "neat-csv": "^5.2.0",
+    "seo-scraper": "^1.1.1"
+  }
+}
